@@ -1,0 +1,14 @@
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\bin\Debug\net9.0\Islam's Carpet Cleaning Service.exe
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\bin\Debug\net9.0\Islam's Carpet Cleaning Service.deps.json
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\bin\Debug\net9.0\Islam's Carpet Cleaning Service.runtimeconfig.json
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\bin\Debug\net9.0\Islam's Carpet Cleaning Service.dll
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\bin\Debug\net9.0\Islam's Carpet Cleaning Service.pdb
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\obj\Debug\net9.0\Islam's Carpet Cleaning Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\obj\Debug\net9.0\Islam's Carpet Cleaning Service.AssemblyInfoInputs.cache
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\obj\Debug\net9.0\Islam's Carpet Cleaning Service.AssemblyInfo.cs
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\obj\Debug\net9.0\Islam's Carpet Cleaning Service.csproj.CoreCompileInputs.cache
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\obj\Debug\net9.0\Islam's Carpet Cleaning Service.dll
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\obj\Debug\net9.0\refint\Islam's Carpet Cleaning Service.dll
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\obj\Debug\net9.0\Islam's Carpet Cleaning Service.pdb
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\obj\Debug\net9.0\Islam's Carpet Cleaning Service.genruntimeconfig.cache
+C:\Users\Amar\source\repos\Islam's Carpet Cleaning Service\Islam's Carpet Cleaning Service\obj\Debug\net9.0\ref\Islam's Carpet Cleaning Service.dll
